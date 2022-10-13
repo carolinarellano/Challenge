@@ -1,0 +1,8 @@
+Conclusiónes Renata Tejeda
+
+Creo que lo que fue más difícil y significativo de nuestro proyecto fue la manera en la que manejábamos el input del usuario 
+y el tener que primero recibir un archivo de texto con los números que teníamos que usar para después pasarlos a una lista, 
+luego manipularlos como string para poder unir todos los nodos en un solo elemento y después usar la función de atoi para convertir 
+todo a entero. Después de decidir que esta iba a ser la manera en la que íbamos a manipularon el input lo demás fue más fácil.
+ Después de este proyecto me queda mucho más claro el manejo de las listas y como importa mucho el tipo de input que estamos manejando 
+y tener en cuenta que cada tipo de dato se comporta de manera diferente.
